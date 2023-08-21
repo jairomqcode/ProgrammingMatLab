@@ -67,5 +67,6 @@ Sol: 3.1416
 MatLab contiene una amplia variedad de funciones, como **abs** (valor absoluto) **eig** (cálculo de valores propios). MatLab utiliza paréntesis para pasar las entradas a las funciones, de forma similar a la notación matemática estándar.  
 
 ```MatLab
-y = sen(x)
+% Asignamos a una variable "y" la función seno evaluada en x. 
+y = sin(x)
 ```
