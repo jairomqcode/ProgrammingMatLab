@@ -15,6 +15,7 @@ Los comentarios también se pueden escribir en varias líneas usando los operado
 Este es un comentario en varias líneas.
 Puede ser tan largo como sea necesario.
 }%
+```
 
 Los comentarios son una parte importante de la programación en MATLAB. Ayudan a que el código sea más legible y fácil de entender. Aquí hay algunos consejos para escribir comentarios de MATLAB:  
 - Sea claro y conciso.  
