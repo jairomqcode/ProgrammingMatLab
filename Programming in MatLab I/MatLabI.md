@@ -10,7 +10,7 @@ Estas son algunas de las cosas que puede hacer con MATLAB:
 
 - **Cree interfaces de usuario**: MATLAB se puede utilizar para crear interfaces de usuario interactivas para sus aplicaciones. Tiene una variedad de controles y widgets que puede usar para crear una interfaz de usuario personalizada.  
 
-- **Interoperar con otros lenguajes: MATLAB se puede utilizar para interoperar con otros lenguajes de programación, como Python y C++. Esto le permite utilizar los puntos fuertes de MATLAB para la computación numérica y otros lenguajes para sus puntos fuertes, como el desarrollo web o el desarrollo de juegos.  
+- **Interoperar con otros lenguajes**: MATLAB se puede utilizar para interoperar con otros lenguajes de programación, como Python y C++. Esto le permite utilizar los puntos fuertes de MATLAB para la computación numérica y otros lenguajes para sus puntos fuertes, como el desarrollo web o el desarrollo de juegos.  
 
 MATLAB es una poderosa herramienta que se puede utilizar para una amplia variedad de tareas. Si es científico, ingeniero o analista de datos, MATLAB es una herramienta valiosa para tener en su caja de herramientas.  
 
