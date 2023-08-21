@@ -54,3 +54,5 @@ Se puede observar el contenido de cualquier variable introduciendo su nombre. Ta
 load datafile.mat
 ```
 Finalmente, se usa la función **clc** para vaciar la ventana de comandos.
+
+# Uso de constantes y funciones incorporadas.  
