@@ -62,4 +62,10 @@ MatLab contiene constantes incorporadas, una de ellas es **pi** para representar
 ```MatLab
 a = pi
 ```
-Sol: 3.1416
+Sol: 3.1416  
+
+MatLab contiene una amplia variedad de funciones, como abs (valor absoluto) eig (cálculo de valores propios). MatLab utiliza paréntesis para pasar las entradas a las funciones, de forma similar a la notación matemática estándar.  
+
+```MatLab
+y = sen(x)
+```
