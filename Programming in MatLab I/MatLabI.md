@@ -34,8 +34,10 @@ Para crear una variable en MATLAB, se debe asignar un valor. El signo (=) en Mat
 x = 7    % x es la variable y 7 es el valor.
 ```
 
-Otro ejemplo:
+Otro ejemplo:  
 ```MatLab
 y = 3 + 4
 % MatLab primero evalua la expresión 3 + 4, y luego el resultado "7" se lo asigna a la variable y.
 ```
+Es importante destacar que si se agrega un punto y coma al final de un comando, se suprime la salida, aunque el comando seguirá ejecutándose. Cuando se introduce un comando sin punto y como al final, MatLab muestra el resultado en la línea de comandos.
+
