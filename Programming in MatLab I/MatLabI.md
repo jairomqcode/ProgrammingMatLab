@@ -47,7 +47,7 @@ Podemos guardar variables en un espacio de trabajo en un formato de archivo espe
 ```MatLab
 save datafile.mat
 ```
-Podemos utilizar la función **clear** para vaciar el espacio de trabajo. Por otro lado, podemos utilizar la función o comando **load** para cargar las variables de un archivo MAT.  
+También, podemos utilizar la función **clear** para vaciar el espacio de trabajo. Por otro lado, podemos utilizar la función o comando **load** para cargar las variables de un archivo MAT.  
 
 ```MatLab
 load datafile.mat
