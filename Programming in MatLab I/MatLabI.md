@@ -53,3 +53,4 @@ Se puede observar el contenido de cualquier variable introduciendo su nombre. Ta
 ```MatLab
 load datafile.mat
 ```
+Finalmente, se usa la función **clc** para vaciar la ventana de comandos.
