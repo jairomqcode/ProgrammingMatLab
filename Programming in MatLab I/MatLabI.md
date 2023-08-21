@@ -42,12 +42,13 @@ y = 3 + 4
 Es importante destacar que si se agrega un punto y coma al final de un comando, se suprime la salida, aunque el comando seguirá ejecutándose. Cuando se introduce un comando sin punto y como al final, MatLab muestra el resultado en la línea de comandos.  
 
 # Almacenamiento y carga de variables.  
-Podemos guardar variables en un espacio de trabajo en un formato de archivo especifico de MatLab, llamado archivo MAT, usando el comando save.
+
+Las variables se pueden guardar en un espacio de trabajo en un formato de archivo especifico de MatLab, llamado archivo MAT, usando el comando save.
 
 ```MatLab
 save datafile.mat
 ```
-También, podemos utilizar la función **clear** para vaciar el espacio de trabajo. Por otro lado, podemos utilizar la función o comando **load** para cargar las variables de un archivo MAT.  
+Se puede observar el contenido de cualquier variable introduciendo su nombre. También, podemos utilizar la función **clear** para vaciar el espacio de trabajo. Por otro lado, podemos utilizar la función o comando **load** para cargar las variables de un archivo MAT.  
 
 ```MatLab
 load datafile.mat
