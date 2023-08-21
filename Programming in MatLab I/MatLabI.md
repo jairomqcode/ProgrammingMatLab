@@ -1,4 +1,5 @@
-# Comentarios en MatLab.
+# Comandos en MatLab.
+## Comentarios en MatLab.
 
 Los **comentarios en MATLAB** se utilizan para explicar el código y hacerlo más legible. Pueden ayudar a otros a entender el código, incluso si no están familiarizados con MATLAB. También pueden ayudar al autor del código a recordar lo que hace el código.  
 
@@ -25,7 +26,7 @@ Los comentarios son una parte importante de la programación en MATLAB. Ayudan a
 
 Escribir comentarios de MATLAB puede parecer una tarea adicional, pero vale la pena el esfuerzo. Los comentarios pueden ayudar a que su código sea más legible y fácil de entender, lo que puede ahorrarle tiempo y frustraciones en el futuro.
 
-# Variables en MatLab.  
+## Variables en MatLab.  
 En MATLAB, una **variable** es una ubicación con nombre en la memoria que **almacena un valor**. Las variables se pueden usar para almacenar cualquier tipo de datos, incluidos números, cadenas, caracteres y matrices.  
 
 Para crear una variable en MATLAB, se debe asignar un valor. El signo (=) en MatLab es el **operador de asignación**, lo que significa que la expresión a la derecha del signo igual se asigna a la variable de la izquierda.
@@ -41,7 +42,7 @@ y = 3 + 4
 ```
 Es importante destacar que si se agrega un punto y coma al final de un comando, se suprime la salida, aunque el comando seguirá ejecutándose. Cuando se introduce un comando sin punto y como al final, MatLab muestra el resultado en la línea de comandos.  
 
-# Almacenamiento y carga de variables.  
+## Almacenamiento y carga de variables.  
 
 Las variables se pueden guardar en un espacio de trabajo en un formato de archivo especifico de MatLab, llamado archivo MAT, usando el comando save.
 
@@ -55,4 +56,4 @@ load datafile.mat
 ```
 Finalmente, se usa la función **clc** para vaciar la ventana de comandos.
 
-# Uso de constantes y funciones incorporadas.  
+## Uso de constantes y funciones incorporadas.  
