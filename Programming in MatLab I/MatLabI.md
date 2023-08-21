@@ -57,3 +57,9 @@ load datafile.mat
 Finalmente, se usa la función **clc** para vaciar la ventana de comandos.
 
 ## Uso de constantes y funciones incorporadas.  
+
+MatLab contiene constantes incorporadas, una de ellas es **pi** para representar π.
+```MatLab
+a = pi
+```
+Sol: 3.1416
