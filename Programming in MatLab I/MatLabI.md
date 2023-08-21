@@ -61,12 +61,18 @@ Finalmente, se usa la función **clc** para vaciar la ventana de comandos.
 MatLab contiene constantes incorporadas, una de ellas es **pi** para representar π.
 ```MatLab
 a = pi
-```
 Sol: 3.1416  
+```
+
 
 MatLab contiene una amplia variedad de funciones, como **abs** (valor absoluto) **eig** (cálculo de valores propios). MatLab utiliza paréntesis para pasar las entradas a las funciones, de forma similar a la notación matemática estándar.  
 
 ```MatLab
-% Asignamos a una variable "y" la función seno evaluada en x. 
+% Asignamos a una variable "y" el resultado de la función seno evaluada en x. 
 y = sin(x)
+```
+```MatLab
+% Asignamos a una variable "z" el resultado de la raíz cuadrada de -9.
+z = sqrt(-9)
+Sol: 0.0000 + 3.0000i
 ```
