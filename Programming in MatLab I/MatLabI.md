@@ -128,8 +128,10 @@ Podemos combinar espacios con punto y coma para crear una matriz, que es un arre
 x = [5 6 7; 8 9 10]
 ```
 Sol:  
-5  6  7  
-8  9  10  
+| row | Col 1 | Col 2 | Col 3 |
+| :-: | :-: | :-: | :-: | 
+| 1 | 5 | 6 | 7 | 
+| 2 | 8 | 9 | 10 |  
 
 MatLab puede realizar cálculos entre los corchetes:  
 ```MatLab
