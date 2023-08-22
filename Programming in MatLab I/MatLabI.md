@@ -95,7 +95,7 @@ Cuando se separan los números con espacios o comas, MatLab combina los números
 ```MatLab
 x = [7; 9]
 ```
-Sol: 
+Sol:  
 7  
 9
 
