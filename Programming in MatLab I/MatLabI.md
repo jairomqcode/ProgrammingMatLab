@@ -89,7 +89,9 @@ Se pueden crear arrays con varios elementos utilizando corchetes.
 x = [7 9]
 ```
 Sol:   
-7          9  
+| n. fila | n. columnas |
+|:-:|:-:|
+| 1 | 7 | 9 |
 
 Cuando se separan los números con espacios o comas, MatLab combina los números en un vector fila, lo cual, es una matriz con una fila y varias columnas (1 por n). Cuando se separan los números mediante punto y coma, MatLab crea un vector columna (n por 1).  
 ```MatLab
