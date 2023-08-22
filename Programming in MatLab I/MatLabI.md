@@ -108,7 +108,9 @@ Creamos un vector fila que contiene los valores 3, 10, 5:
 x = [3, 10, 5]
 ```
 Sol:  
-3     10     5  
+| row | col 1 | col 2 | col 3 |
+| :-: | :-: | :-: |
+| 1 | 3 | 10 | 5 |  
 
 Creamos un vector columna que contiene los valores 8, 2, -4:  
 ```MatLab
