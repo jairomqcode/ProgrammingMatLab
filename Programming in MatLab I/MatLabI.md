@@ -104,4 +104,13 @@ Creamos un vector fila que contiene los valores 3, 10, 5:
 x = [3, 10, 5]
 ```
 Sol:  
-3     10     5
+3     10     5  
+
+Creamos un vector columna que contiene los valores 8, 2, -4:  
+```MatLab
+x = [8; 2; -4]
+```
+Sol:  
+8  
+2  
+-4
