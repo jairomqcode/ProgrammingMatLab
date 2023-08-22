@@ -89,7 +89,7 @@ Se pueden crear arrays con varios elementos utilizando corchetes.
 x = [7 9]
 ```
 Sol:   
-| n. fila | columna 1 | columna 2 |
+| row | col 1 | col 2 |
 |:-:|:-:|:-:|
 | 1 | 7 | 9 |
 
@@ -98,7 +98,7 @@ Cuando se separan los números con espacios o comas, MatLab combina los números
 x = [7; 9]
 ```
 Sol:  
-| Columna |
+| Column |
 |:-:|
 |7|  
 |9|  
