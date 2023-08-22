@@ -89,7 +89,7 @@ Se pueden crear arrays con varios elementos utilizando corchetes.
 x = [7 9]
 ```
 Sol:   
-| n. fila | n. columnas |
+| n. fila | columna 1 | columna 2 |
 |:-:|:-:|:-:|
 | 1 | 7 | 9 |
 
