@@ -76,3 +76,7 @@ y = sin(x)
 z = sqrt(-9)
 Sol: 0.0000 + 3.0000i
 ```
+
+# Arrays.    
+Los arrays son el tipo de datos más fundamental en MATLAB. Son una colección de valores del mismo tipo, almacenados en ubicaciones de memoria contiguas. Las matrices pueden ser unidimensionales, bidimensionales, tridimensionales o incluso de dimensiones superiores.
+
