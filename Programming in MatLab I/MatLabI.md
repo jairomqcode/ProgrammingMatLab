@@ -138,4 +138,6 @@ MatLab puede realizar cálculos entre los corchetes:
 x = [sqrt(10) pi^2]
 ```
 Sol:  
-3.1623  9.8696
+| row | Col 1 | Col 2 |
+| :-: | :-: | :-: |
+| 1 | 3.1623 |  9.8696 |
