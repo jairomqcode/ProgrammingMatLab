@@ -117,9 +117,15 @@ Sol:
 
 Podemos combinar espacios con punto y coma para crear una matriz, que es un arreglo con varias filas y columnas. Cuando se introduce una matriz, se debe introducir línea por línea.  
 ```MatLab
-x = [5, 6, 7; 8, 9, 10]
+x = [5 6 7; 8 9 10]
 ```
 Sol:  
 5  6  7  
 8  9  10  
 
+MatLab puede realizar cálculos entre los corchetes:  
+```MatLab
+x = [sqrt(10) pi^2]
+```
+Sol:  
+3.1623  9.8696
