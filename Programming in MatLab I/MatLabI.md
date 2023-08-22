@@ -97,6 +97,11 @@ x = [7; 9]
 ```
 Sol:  
 7  
-9
+9  
 
-     
+Creamos un vector fila que contiene los valores 3, 10, 5:
+```MatLab
+x = [3, 10, 5]
+```
+Sol:  
+3     10     5
