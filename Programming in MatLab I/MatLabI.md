@@ -98,8 +98,10 @@ Cuando se separan los números con espacios o comas, MatLab combina los números
 x = [7; 9]
 ```
 Sol:  
-7  
-9  
+| Columna |
+|:-:|
+|7|  
+|9|  
 
 Creamos un vector fila que contiene los valores 3, 10, 5:
 ```MatLab
