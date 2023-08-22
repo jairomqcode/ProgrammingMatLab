@@ -77,7 +77,10 @@ z = sqrt(-9)
 Sol: 0.0000 + 3.0000i
 ```
 
-# Arrays - Matrices.    
+# Vectores y Matrices.    
 Los arrays son el tipo de datos más fundamental en MATLAB. Son una colección de valores del mismo tipo, almacenados en ubicaciones de memoria contiguas. Las matrices pueden ser unidimensionales, bidimensionales, tridimensionales o incluso de dimensiones superiores.
 
-Un solo número llamado escalar,es en realidad un arreglo de 1x1, lo que significa que contiene 1 fila y 1 columna. 
+Un solo número llamado escalar, es en realidad un arreglo de 1x1, lo que significa que contiene 1 fila y 1 columna. Por ejemplo:  
+```MatLab
+x = 4
+```
