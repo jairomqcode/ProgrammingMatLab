@@ -84,3 +84,7 @@ Un solo número llamado escalar, es en realidad un arreglo de 1x1, lo que signif
 ```MatLab
 x = 4
 ```
+Se pueden crear arrays con varios elementos utilizando corchetes.  
+```MatLab
+x = [2 3]
+```
