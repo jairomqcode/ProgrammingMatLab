@@ -116,10 +116,12 @@ Creamos un vector columna que contiene los valores 8, 2, -4:
 ```MatLab
 x = [8; 2; -4]
 ```
-Sol:  
-8  
-2  
--4  
+Sol: 
+| Col |
+| :-: |
+| 8 |  
+| 2 | 
+| -4 |   
 
 Podemos combinar espacios con punto y coma para crear una matriz, que es un arreglo con varias filas y columnas. Cuando se introduce una matriz, se debe introducir línea por línea.  
 ```MatLab
