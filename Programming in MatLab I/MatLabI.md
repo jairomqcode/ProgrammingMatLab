@@ -86,5 +86,5 @@ x = 4
 ```
 Se pueden crear arrays con varios elementos utilizando corchetes.  
 ```MatLab
-x = [2 3]
+x = [7 9]
 ```
