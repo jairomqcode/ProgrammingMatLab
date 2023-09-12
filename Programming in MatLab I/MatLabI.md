@@ -157,3 +157,10 @@ x = 1 : 0.5 : 3
 ```
 Sol:  
 x = 1.000  1.500  2.000  2.500  3.000  3.500  4.000  4.500  5.000  
+
+Podemos generar un vector con un número de elementos deseados utilizando la función **linspace()**, su sintaxis es la siguiente:  
+
+```MatLab
+x = linspace(primero, último, número_de_elementos)
+```
+
