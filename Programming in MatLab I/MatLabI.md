@@ -149,3 +149,11 @@ x = 1 : 4
 ```
 Sol:  
 x = 1  2  3  4  
+
+El operador : utiliza un espacio predeterminado de 1, sin embargo, podemos especificar nuestro propio espacio de la siguiente manera:  
+
+```MatLab
+x = 1 : 0.5 : 3
+```
+Sol:  
+x = 1.000  1.500  2.000  2.500  3.000  3.500  4.000  4.500  5.000  
