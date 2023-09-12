@@ -142,3 +142,10 @@ Sol:
 | :-: | :-: | :-: |
 | 1 | 3.1623 |  9.8696 |
 
+También, podemos crear vectores uniformemente espaciados utilizando el operador : y especificar solo los puntos de inicio y fin.  
+
+```MatLab
+x = 1 : 4
+```
+Sol:  
+x = 1  2  3  4  
