@@ -233,4 +233,12 @@ Se puede utilizar un único valor de índice para hacer referencia a los element
 ```MatLab
 x = v(3)
 ```
-devuelve el tercer elemento del vector **v** cuando **v** es un vector fila o columna.
+devuelve el tercer elemento del vector **v** cuando **v** es un vector fila o columna. Se puede utilizar un único rango de valores de índice para hacer referencia a un subconjunto de elementos vectoriales. Por ejemplo:
+```MatLab
+x = v(3:end)
+```
+devuelve un subconjunto del vector **v** que contiene los elementos desde 3 hasta el final.  
+Los elementos de una variable se puede alterar combinando la indexación con la asignación.
+```MatLab
+v2(1) = 0.5    % Cambiamos el valor del primer elemento del vector v2 por 0.5
+```
