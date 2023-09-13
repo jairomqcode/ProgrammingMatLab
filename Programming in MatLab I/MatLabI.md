@@ -176,7 +176,7 @@ X =
 2  
 3  
 
-MatLab contiene funciones que ayudan a crear matrices de uso habitual, como matrices de números aleatorios.
+MatLab contiene funciones que ayudan a crear matrices de uso habitual, como matrices de números aleatorios, la sintaxis es rand(n):
 ```MatLab
 x = rand(2)
 ```
@@ -186,4 +186,12 @@ Sol:
 | 1 | 0.814 | 0.127 |  
 | 2 | 0.905 | 0.913 | 
 
-El 2 en el comando rand(2) especifica que la salida será una matriz de 2 por 2 de números aleatorios.
+El 2 en el comando rand(2) especifica que la salida será una matriz de 2 por 2 de números aleatorios.  También, podemos utilizar la sintaxis rand(n,m) para crear matrices no cuadradas de números aleatorios.
+```MatLab
+x = rand(2,3)
+```
+Sol:  
+| N. Fila | Col 1 | Col 2 | col 3 |
+|:-----:|:-----:|:-----:| :-----: |
+| 1 | 0.632 | 0.278 | 0.957 | 
+| 2 | 0.097 | 0.546 | 0.964 |
