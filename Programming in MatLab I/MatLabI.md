@@ -164,3 +164,15 @@ Podemos generar un vector con un número de elementos deseados utilizando la fun
 x = linspace(primero, último, número_de_elementos)
 ```
 
+Tanto la función **linspace** y el operador : crean vectores fila. Sin embargo, se puede convertir un vector fila en un vector columna utilizando el operador de transposición (').
+
+```MatLab
+x = 1 : 3;
+x = x'
+```
+Sol:  
+X = 1 
+    2
+    3
+
+
