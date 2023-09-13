@@ -181,7 +181,9 @@ MatLab contiene funciones que ayudan a crear matrices de uso habitual, como matr
 x = rand(2)
 ```
 Sol:  
-0.814  0.127  
-0.905  0.913  
+| N. Fila | Col 1 | Col 2 |
+|:-----:|:-----:|:-----:|
+| 1 | 0.814 | 0.127 |  
+| 2 | 0.905 | 0.913 | 
 
 
