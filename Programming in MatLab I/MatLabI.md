@@ -206,5 +206,6 @@ La **indexación** es la forma de extraer y modificar los valores de los arreglo
 Para extraer elementos de una matriz, deberá especificar dos índices en su lugar. El primer índice es el número de filas, y el segundo índice es el número de columna. La sintaxis es **m = (n, m)**. También, podemos utilizar el operador : para extraer toda la fila o todas las columnas en una matriz.
 ```MatLab
 x (1,:)    % Tomamos todas las columnas de la primera fila de la matriz x.
-x (:,1)    % Tomamos todas las filas de la primera columna de la matriz x.
+x (:,2)    % Tomamos todas las filas de la segunda columna de la matriz x.
 ```
+Por lo tanto, para indexar una matriz se usa **m = (row, col)** y que los vectores solo necesitan un índice.
