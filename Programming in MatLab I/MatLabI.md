@@ -186,4 +186,4 @@ Sol:
 | 1 | 0.814 | 0.127 |  
 | 2 | 0.905 | 0.913 | 
 
-
+El 2 en el comando rand(2) especifica que la salida será una matriz de 2 por 2 de números aleatorios.
