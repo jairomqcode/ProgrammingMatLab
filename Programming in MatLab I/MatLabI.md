@@ -217,3 +217,7 @@ Se puede utilizar la palabra clave **end** como un índice de fila o columnapara
 ```MatLab
 x = data(end,3)    % Obtenemos el valor de la última fila y la 3ra columna de la variable data.
 ```
+Podemos utilizar la aritmética con la palabra clave **end**. Por ejemplo:
+```MatLab
+x = data(end-1,3)  % Obtenemos el valor de la penúltima fila y la 3ra columna de la variable data.
+```
