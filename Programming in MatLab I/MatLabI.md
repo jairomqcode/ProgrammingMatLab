@@ -221,3 +221,16 @@ Podemos utilizar la aritmética con la palabra clave **end**. Por ejemplo:
 ```MatLab
 x = data(end-1,3)  % Obtenemos el valor de la penúltima fila y la 3ra columna de la variable data.
 ```
+Cuando se utiliza como índice, el operador de dos puntos (:) especifica todos los elementos de esa dimensión. La sintaxis:
+```MatLab
+x = m(:,2)    % Variable x que contiene la segunda columna de la matriz m.
+```
+El operador : puede hacer referencia a un rango de valores. La siguiente sintaxis crea una matriz que contiene las dos últimas columnas de una matriz 7 x 4:
+```MatLab
+x = m(:,3:4)
+```
+Se puede utilizar un único valor de índice para hacer referencia a los elementos vectoriales. Por ejemeplo:
+```MatLab
+x = v(3)
+```
+devuelve el tercer elemento del vector **v** cuando **v** es un vector fila o columna.
