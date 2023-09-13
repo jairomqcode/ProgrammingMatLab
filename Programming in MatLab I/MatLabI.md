@@ -195,3 +195,5 @@ Sol:
 |:-----:|:-----:|:-----:| :-----: |
 | 1 | 0.632 | 0.278 | 0.957 | 
 | 2 | 0.097 | 0.546 | 0.964 |
+
+Podemos utilizar la función zeros(n,m) para crear una matriz de n filas, m columnas y elementos ceros.
