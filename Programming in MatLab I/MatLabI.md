@@ -199,4 +199,6 @@ Sol:
 Podemos utilizar la función zeros(n,m) para crear una matriz de n filas, m columnas y elementos ceros.
 
 ## Indexación y modeificación de arreglos.
+Todas las variables en MatLab son arreglos, por lo tanto, para programar en MatLab debemos saber trabajar con arreglos. El primer paso consiste en hacer referencia a los elementos de un arreglo,  esto se llama indexación.  
 
+La **indexación** es la forma de extraer y modificar los valores de los arreglos. La posición de un valor o elemento dentro de un arreglo es su índices. El índice se puede utilizar para extraer valores concretos.
