@@ -213,3 +213,7 @@ Por lo tanto, para indexar una matriz se usa **m = (row, col)** y que los vector
 ```MatLab
 x = data(6,3)    % Hemos creado una variable que contiene el valor de la 6ta fila y 3era columna de la variable data.
 ```
+Se puede utilizar la palabra clave **end** como un índice de fila o columnapara hacer referencia al último elemento.
+```MatLab
+x = data(end,3)    % Obtenemos el valor de la última fila y la 3ra columna de la variable data.
+```
