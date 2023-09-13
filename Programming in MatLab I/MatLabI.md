@@ -176,4 +176,12 @@ X =
 2  
 3  
 
+MatLab contiene funciones que ayudan a crear matrices de uso habitual, como matrices de números aleatorios.
+```MatLab
+x = rand(2)
+```
+Sol:  
+0.814  0.127  
+0.905  0.913  
+
 
