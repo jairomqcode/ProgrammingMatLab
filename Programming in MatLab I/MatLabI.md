@@ -184,6 +184,15 @@ X =
 2  
 3  
 
+Podemos crear vectores columnas en un solo comando si crea el vector fila y lo traspone todo en una linea. Observe el uso de paréntesis para especificar el orden de las operaciones.
+
+```MatLab
+x = (1:2:5)'
+```
+Sol: 1  
+     3  
+     5
+
 MatLab contiene funciones que ayudan a crear matrices de uso habitual, como matrices de números aleatorios, la sintaxis es rand(n):
 ```MatLab
 x = rand(2)
