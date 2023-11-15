@@ -259,3 +259,6 @@ Los elementos de una variable se puede alterar combinando la indexación con la 
 ```MatLab
 v2(1) = 0.5    % Cambiamos el valor del primer elemento del vector v2 por 0.5
 ```
+```MatLab
+data(1,4) = 0.5 % Cambiamos el valor del elemento de la primera fila y de la última columna de data a 0.5.
+```
