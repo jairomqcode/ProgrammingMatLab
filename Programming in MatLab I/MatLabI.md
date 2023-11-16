@@ -277,4 +277,9 @@ z = x + y
 vs = v1 + v2
 ```
 
+Puede multiplicar o dividir todos los elementos de un arreglo por un escalar.
+```MatLab
+z = 2*x
+y = x/3
+```
 
