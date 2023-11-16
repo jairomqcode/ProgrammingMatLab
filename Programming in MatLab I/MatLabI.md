@@ -320,3 +320,19 @@ El valor máximo de un vector y su correspondiente valor de índice se pueden de
 ```MatLab
 [xMax, idx] = max(x)
 ```
+
+### Como obtener ayuda en MatLab.
+La documentación de MatLab contiene ejemplos e información que pueden ayudarlo a trabajar en sus propios problemas.  
+
+Actividad: utilizar la documentación de **randi** para completar la tarea siguiente.  
+Cree una matriz llamada "x" que:
+* Contenga numeros enteros aleatorios entre 1 y 20.
+* Tenga 5 filas.
+* Tenga 7 columnas.
+
+
+*X = randi(imax,sz1,...,szN) devuelve un arreglo de sz1 por ... por szN en el que sz1,...,szN indica el tamaño de cada dimensión. Por ejemplo, randi(10,3,4) devuelve un arreglo de 3 por 4 de enteros seudoaleatorios entre 1 y 10*.
+
+```MatLab
+x = randi(20, 5, 7)
+```
