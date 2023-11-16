@@ -262,3 +262,9 @@ v2(1) = 0.5    % Cambiamos el valor del primer elemento del vector v2 por 0.5
 ```MatLab
 data(1,4) = 0.5 % Cambiamos el valor del elemento de la primera fila y de la última columna de data a 0.5.
 ```
+
+### Cálculos en arreglos.
+MatLab esta diseñado para trabajar de forma natural con arreglos. Por ejemplo, puede sumar un valor escalar a todos los elementos de un arreglo.
+```MatLab
+y = x + 2
+```
