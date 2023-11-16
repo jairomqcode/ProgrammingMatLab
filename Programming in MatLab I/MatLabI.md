@@ -283,3 +283,12 @@ z = 2*x
 y = x/3
 ```
 
+Las funciones estadísticas básicas de MatLab se pueden aplicar a un vector para producir una única salida. El valor máximo de un vector se puede determinar utilizando la función **max**.
+```MatLab
+vm = max(va)
+```
+
+MatLab tiene funciones que realizan operaciones matemáticas sobre un vector entero o un arreglo de valores en un solo comando.
+```MatLab
+xSqrt = sqrt(x)
+```
