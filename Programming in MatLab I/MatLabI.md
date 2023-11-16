@@ -306,3 +306,17 @@ z = [3 4] .* [10 20]
 Sol:  
 z = 30 80  
 
+La función **size** se puede aplicar a un arreglo para producir una sola variable de salida que contenga el tamaño del arreglo.
+```MatLab
+s = size(x)
+```
+
+La función **size** se puede aplicar a una matriz para producir una o dos variables de salidas. Use corchetes [] para obtener más de una salida.
+```MatLab
+[xrow, xcol] = size(x)
+```
+
+El valor máximo de un vector y su correspondiente valor de índice se pueden determinar utilizando la función **max**. La primera salida de la función **max** es el valor máximo del vector de entrada. Cuando se llama con dos salidas, la segunda salida es el valor de índice.
+```MatLab
+[xMax, idx] = max(x)
+```
