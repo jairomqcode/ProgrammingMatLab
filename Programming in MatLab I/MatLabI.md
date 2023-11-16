@@ -292,3 +292,17 @@ MatLab tiene funciones que realizan operaciones matemáticas sobre un vector ent
 ```MatLab
 xSqrt = sqrt(x)
 ```
+
+El operador * realiza la multiplicación matricial. Por lo tanto, si utiliza * para multiplicar dos vectores de igual tamaño, ya que las dimensiones internas no coinciden, obtendrá un mensaje de error.
+```MatLab
+z = [3 4]*[10 20]
+```
+Mensaje de error: Error using * Incorrect dimensions for matrix multiplication.  
+
+En cambio, el operador .* realiza la multiplicación por elementos y permite multiplicar los elementos correspondientes de dos arreglos de igual tamaño.
+```MatLab
+z = [3 4] .* [10 20]
+```
+Sol:  
+z = 30 80  
+
