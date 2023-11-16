@@ -268,3 +268,13 @@ MatLab esta diseñado para trabajar de forma natural con arreglos. Por ejemplo, 
 ```MatLab
 y = x + 2
 ```
+
+Se pueden sumar dos arreglos cualesquiera del mismo tamaño.
+```MatLab
+z = x + y
+```
+```MatLab
+vs = v1 + v2
+```
+
+
