@@ -354,3 +354,22 @@ El comando anterior representa una línea roja (r) de guiones (--) con círculo 
 
 En MATLAB, el comando **hold on** se utiliza para superponer varios gráficos en el mismo conjunto de ejes. De forma predeterminada, MATLAB borrará el trazado actual antes de dibujar uno nuevo. Sin embargo, usar **hold on** evitará este comportamiento, permitiéndole agregar múltiples gráficos a los mismos ejes sin borrar los anteriores.  
 
+```MatLab
+hold on
+plot(x, y)
+```
+
+Mientras el estado de persistencia (hold on) esté activado, las gráficas seguirán representándose en los mismos ejes. Para volver al comportamiento de representación predeterminado, en el que cada gráfica tiene sus propios ejes, introducir **hold off**.  
+
+Cuando se representa un único vector, MATLAB utiliza los valores del vector como datos del eje "y" y establece los datos del eje x para que oscilen entre 1 y n (el número de elementos del vector).
+
+```MatLab
+plot(v1)
+```
+
+La función **plot** acepta entradas adicionales opcionales que consiste en un nombre de propiedad y un valor asociado. Se puede obtener más información sobre las propiedades disponibles en la documentación sobre "PROPIEDADES DE LÍNEAS".  
+
+La función **plot** acepta un par de nombre de propiedad y valor de propiedad después de los argumentos representados y el especificador de línea.  
+
+Existen muchas otras funciones de representación gráfica en MATLAB. Puede ver una extensa lista en la "Galería de gráficas de MATLAB".
+
