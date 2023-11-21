@@ -336,3 +336,21 @@ Cree una matriz llamada "x" que:
 ```MatLab
 x = randi(20, 5, 7)
 ```
+
+### Representación gráfica de los datos.
+Dos vectores de la misma longitud se pueden representar uno con respecto al otro usando la función plot.
+
+```MatLab
+plot(x, y)
+```
+
+La función **plot** acepta un argumento adicional que permite especificar el color, el estilo de línea y el estilo de marcador utilizando diferentes símbolos entre comillas simples.
+
+```MatLab
+plot(x, y, "r--o")
+```
+
+El comando anterior representa una línea roja (r) de guiones (--) con círculo (o) como marcador. Puede obtener más información sobre los símbolos disponibles en la documentación sobre "ESPECIFICACIÓN DE LÍNEA".  
+
+En MATLAB, el comando **hold on** se utiliza para superponer varios gráficos en el mismo conjunto de ejes. De forma predeterminada, MATLAB borrará el trazado actual antes de dibujar uno nuevo. Sin embargo, usar **hold on** evitará este comportamiento, permitiéndole agregar múltiples gráficos a los mismos ejes sin borrar los anteriores.  
+
