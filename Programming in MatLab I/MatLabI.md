@@ -373,3 +373,12 @@ La función **plot** acepta un par de nombre de propiedad y valor de propiedad d
 
 Existen muchas otras funciones de representación gráfica en MATLAB. Puede ver una extensa lista en la "Galería de gráficas de MATLAB".
 
+Se pueden agregar etiquetas a las gráficas utilizando funciones de anotación de gráficas, como **title**. La entrada de estas funciones es una cadena. Las cadenas en MatLab se denominan con comillas dobles (").
+
+```MatLab
+title("Plot Title")
+```
+
+La función **ylabel** nos permite agregar la etiqueta en el eje de ordenadas (y). La función **xlabel** nos permite agregar la etiqueta en el eje de abscisas (y).  
+
+Podemos agregar una leyenda a la gráfica utilizando la función **legend**.
